@@ -20,7 +20,7 @@ For more information about Wi-Fi APIs, please visit the [Mbed OS Wi-Fi](https://
 1. Import the example.
 
    ```
-   mbed import https://github.com/maximlab/mbed-os-example-wifi
+   mbed import https://github.com/modular2/mbed-os-example-wifi
    cd mbed-os-example-wifi
    ```
 
